@@ -1,2 +1,1 @@
-# rsschool-cv
-It's my CV!
+https://veta306.github.io/rsschool-cv/cv
